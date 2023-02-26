@@ -1,0 +1,244 @@
+/* 上至下渐变弹出 */
+.top_to_bottom_fade-enter,.top_to_bottom_fade-leave-to{
+    opacity: 0;
+    transform: translateY(-100%);
+}
+.top_to_bottom_fade-enter-to,.top_to_bottom_fade-leave{
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* 下至上出现 */
+.bottom_to_top-enter,.bottom_to_top-leave-to{
+    transform: translateY(100%);
+    opacity: 0;
+}
+.bottom_to_top-enter-to,.bottom_to_top-leave{
+    transform: translateY(0);
+    opacity: 1;
+}
+/* 下至上渐变出现 */
+.bottom_to_top_fade-enter,.bottom_to_top_fade-leave-to{
+    transform: translateY(100%);
+    opacity: 0;
+}
+.bottom_to_top_fade-enter-to,.bottom_to_top_fade-leave{
+    transform: translateY(0);
+    opacity: 1;
+}
+/* 下至上沿着底边旋转出现 */
+.bottom_to_top_rotate-enter,.bottom_to_top_rotate-leave-to{
+    transform-origin: bottom;
+    transform: rotateX(90deg);
+    
+}
+.bottom_to_top_rotate-enter-to,.bottom_to_top_rotate-leave{
+    transform-origin: bottom;
+    transform: rotateX(90deg);
+    
+}
+
+/* 左边到右边 */
+.left_to_left-enter,.left_to_left-leave-to{
+    transform: translateX(-100%);
+}
+.left_to_left-enter-to,.left_to_left-leave{
+    transform: translateX(0)
+}
+.fade_in-enter,.fade_in-leave-to{
+    opacity: 0;
+}
+.fade_in-enter-to,.fade_in-leave{
+    opacity: 1;
+}
+
+/*fade*/
+/*淡入淡出*/
+.fade-enter,.fade-leave-to{
+    opacity: 0;
+}
+.fade-enter-to,.fade-leave{
+    opacity: 1;
+}
+
+
+
+/*变大*/
+.bubble-enter,.bubble-leave-to{
+    transform: scale(.8);
+    opacity: 0;
+}
+.bubble-enter-to,.bubble-leave{
+    transform: scale(1);
+    opacity: 1;
+}
+
+/*从下之上滑动进入，再渐变消失退出*/
+.up_slide_in_fade_out-enter{
+    transform: translateY(100%);
+}
+.up_slide_in_fade_out-enter-to{
+    transform: translateY(0);
+}
+.up_slide_in_fade_out-leave{
+    opacity: 1;
+}
+.up_slide_in_fade_out-leave-to{
+    opacity: 0;
+}
+
+
+
+/* 从小变大，变淡 */
+.small_to_big_fade-enter,.small_to_big_fade-leave-to{
+    transform: scale(1.5);
+    opacity: 0;
+}
+.small_to_big_fade-enter-to,.small_to_big_fade-leave{
+    transform: scale(1);
+    opacity: 1;
+}
+
+
+@keyframes fadeIn {
+   0%{
+      opacity : 0
+   }
+   100%{
+      opacity : 1
+   }
+}
+@keyframes fadeOut {
+    0%{
+       opacity : 1
+    }
+    100%{
+       opacity : 0
+    }
+ }
+
+@keyframes toBig {
+   0%{
+      transform: scale(0);
+   }
+   100%{
+    transform: scale(1);
+   }
+}
+
+@keyframes click {
+   0%{
+      transform: scale(1);
+   }
+   60%{
+       transform: scale(0.5);
+   }
+   100%{
+      transform: scale(1);
+   }
+}
+
+@keyframes lively_emerge {
+   0%{
+       opacity: 0;
+        transform: scale(.5);
+   }
+   100%{
+       opacity: 1;
+        transform: scale(1);
+   }
+}
+
+@keyframes slideFromBottom {
+   0%{
+       opacity: 0;
+       transform: translateY(100%);
+   }
+   100%{
+       opacity: 1;
+       transform: translateY(0);
+   }
+}
+
+@keyframes slideFromBottomSmall {
+    0%{
+        opacity: 0;
+       transform: translateY(50%);
+    }
+    100%{
+        opacity: 1;
+     transform: translateY(0);
+    }
+ }
+
+@keyframes rotateX {
+   0%{
+      transform: rotateX(90deg);
+   }
+   100%{
+    transform: rotateX(0);
+   }
+}
+.click_a-enter{
+    transform: scale(0);
+}
+.click_a-enter-to{
+    transform: scale(1);
+}
+.click_a-leave{
+    opacity: 1;
+}
+.click_a-leave-to{
+    opacity: 0;
+}
+
+.loading_mask{
+    position: fixed; left: 0; top: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgb(0, 0, 0);
+    color: white;
+}
+.loading_mask .loading_ico{
+    position: absolute; left: 50%; top: 50%;
+    margin: -7.5vw 0 0 -2.5vw;
+    width: 5vw;
+    height: 5vw;
+    font-size: 5vw;
+    color: white;
+    border-radius: 50%;
+    box-shadow: 0 0 2vw white;
+    transform-origin: center;
+    animation: rotate 1s linear infinite;
+}
+.loading_mask .loading_title{
+    position: absolute; left: 50%; top: 50%;
+    width: 20vw;
+    height: 3vw;
+    line-height: 3vw;
+    font-size: 1vw;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin: 0vw 0 0 -10vw;
+}
+@keyframes  rotate{
+   0%{
+      transform:rotate(-360deg);
+   }
+   100%{
+    transform: rotate(0);
+   }
+}
+@keyframes click_a {
+   0%{
+        transform: scale(0);
+   }
+   50%{
+       transform: scale(1);
+       opacity: 1;
+   }
+   100%{
+       opacity: 0;
+   }
+}
