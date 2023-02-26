@@ -10,6 +10,7 @@
 - 模拟对战板块，提供保存队伍模板和灵活加点，调整等级和进阶兵种，图像化战报更加直观，超过120名武将可以使用，部分武将做出特色调整。
 - 模拟抽卡板块，提供S1,S2包括征服多个赛季超过50种不同的卡包。玉符数量随意添加。
 
+
 ### 成品展示
 
 <img src="https://github.com/zzbChina/NoteXBook/blob/master/1.jpg" style="zoom:25%;" />
@@ -25,3 +26,6 @@
 
 
 <img src="E:\zzb\项目\NoteBook\NoteX\show\show (4).jpg" style="zoom:25%;" />
+
+
+apk文件夹中有安卓安装包
