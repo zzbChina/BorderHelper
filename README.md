@@ -25,6 +25,4 @@
 
 <img src="https://github.com/zzbChina/BorderHelper/blob/master/show/Screenshot_20230226_203336_plus.H5778D7B6.jpg" style="zoom:25%;" />
 
-更多成品展示见文件夹show
--------------------------------------------------------------------------------------\n
-apk文件夹中有安卓安装包
+更多成品展示见文件夹show、apk文件夹中有安卓安装包
