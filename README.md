@@ -13,19 +13,16 @@
 
 ### 成品展示
 
-<img src="https://github.com/zzbChina/NoteXBook/blob/master/1.jpg" style="zoom:25%;" />
+<img src="https://github.com/zzbChina/BorderHelper/blob/master/show/Screenshot_20230226_203147_plus.H5778D7B6.jpg" style="zoom:25%;" />
 
+<img src="https://github.com/zzbChina/BorderHelper/blob/master/show/Screenshot_20230226_203206_plus.H5778D7B6.jpg" style="zoom:25%;" />
 
+<img src="https://github.com/zzbChina/BorderHelper/blob/master/show/Screenshot_20230226_203215_plus.H5778D7B6.jpg" style="zoom:25%;" />
 
-<img src="E:\zzb\项目\NoteBook\NoteX\show\show (2).jpg" style="zoom:25%;" />
+<img src="https://github.com/zzbChina/BorderHelper/blob/master/show/Screenshot_20230226_203220_plus.H5778D7B6.jpg" style="zoom:25%;" />
 
+<img src="https://github.com/zzbChina/BorderHelper/blob/master/show/Screenshot_20230226_203235_plus.H5778D7B6.jpg" style="zoom:25%;" />
 
-
-<img src="E:\zzb\项目\NoteBook\NoteX\show\show (3).jpg" style="zoom:25%;" />
-
-
-
-<img src="E:\zzb\项目\NoteBook\NoteX\show\show (4).jpg" style="zoom:25%;" />
-
-
+<img src="https://github.com/zzbChina/BorderHelper/blob/master/show/Screenshot_20230226_203336_plus.H5778D7B6.jpg" style="zoom:25%;" />
+----------------------------------------------------------------------------------
 apk文件夹中有安卓安装包
