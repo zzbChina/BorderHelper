@@ -1,4 +1,4 @@
-*{
+/* *{
     margin: 0;
     padding: 0;
     font-family: 'icomoon';
@@ -10,7 +10,150 @@ button{
     border: 0;
     text-align : center;
     cursor: pointer;
+} */
+*{
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    font-size: 3vw;
+    text-align: center;
 }
+*::-webkit-scrollbar{
+    display: none;
+}
+span{
+    display: contents;
+    font-size: 3vw;
+}
+li{
+    list-style: none;
+}
+button{
+    border: 0;
+    text-align : center;
+    cursor: pointer;
+}
+.cover{
+    position: absolute; left: 0; top : 0;
+    width : 100%; height : 100%;
+}
+
+
+
+.command_type_linear{
+    background: linear-gradient(to right bottom,#012504,#00790c);
+}
+.active_type_linear{
+    background: linear-gradient(to right bottom,#280101,#7b0000);
+}
+.combo_type_linear{
+    background: linear-gradient(to right bottom,#1e0126,#76007e);
+}
+.passive_type_linear{
+    background: linear-gradient(to right bottom,#01092c,#002f7a);
+}
+
+.command_type{
+    background: #009c10;
+}
+.active_type{
+    background: #9c0000;
+}
+.combo_type{
+    background: #8a009c;
+}
+.passive_type{
+    background: #004bae;
+}
+
+.bg_shu{
+    background:linear-gradient(to right bottom,black,rgb(2, 121, 38));
+}
+.bg_han{
+    background:linear-gradient(to right bottom,black,rgb(121, 1, 123));
+}
+.bg_qun{
+    background:linear-gradient(to right bottom,black,rgb(118, 118, 118));
+}
+.bg_wu{
+    background:linear-gradient(to right bottom,black,rgb(122, 2, 2));
+}
+.bg_wei{
+    background:linear-gradient(to right bottom,black,rgb(3, 65, 112));
+}
+.bg_jin{
+  background:linear-gradient(to right bottom,black,rgb(1, 125, 117));
+}
+.bg_orange{
+    background:linear-gradient(to right bottom,black,rgb(208, 123, 5));
+}
+
+.command_type_linear{
+    background: linear-gradient(to right bottom,#012504,#00790c);
+}
+.active_type_linear{
+    background: linear-gradient(to right bottom,#280101,#7b0000);
+}
+.combo_type_linear{
+    background: linear-gradient(to right bottom,#1e0126,#76007e);
+}
+.passive_type_linear{
+    background: linear-gradient(to right bottom,#01092c,#002f7a);
+}
+
+.command_type{
+    background: #009c10;
+}
+.active_type{
+    background: #9c0000;
+}
+.combo_type{
+    background: #8a009c;
+}
+.passive_type{
+    background: #004bae;
+}
+.black_tape_wu{
+    background:linear-gradient(to bottom,rgba(92, 0, 0, 0.9),rgba(92, 0, 0, 0.9),rgba(92, 0, 0, 0.1));
+}
+.black_tape_wei{
+    background:linear-gradient(to bottom,rgba(0, 41, 92, 0.9),rgba(0, 41, 92, 0.9),rgba(0, 41, 92, 0.1));
+}
+.black_tape_shu{
+    background:linear-gradient(to bottom,rgba(0, 90, 13, 0.9),rgba(0, 90, 13, 0.9),rgba(0, 90, 13, 0.1));
+}
+.black_tape_qun{
+    background:linear-gradient(to bottom,rgba(42, 42, 42, 0.9),rgba(40, 40, 40, 0.9),rgba(73, 73, 73, 0.1));
+}
+.black_tape_han{
+    background:linear-gradient(to bottom,rgba(92, 0, 74, 0.9),rgba(92, 0, 74, 0.9),rgba(92, 0, 74, 0));
+}
+.black_tape_jin{
+    background:linear-gradient(to bottom,rgba(0, 93, 88, 0.9),rgba(0, 93, 88, 0.9),rgba(1, 112, 107, 0.1));
+}
+
+@keyframes emergeUp {
+    0%{
+        transform: translateY(50%);
+        opacity: .5;
+    }
+    100%{
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+
+
+@keyframes fadeInAcute {
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+  
 
 
 
