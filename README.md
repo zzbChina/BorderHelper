@@ -13,7 +13,7 @@
 
 ## 武将
 
-<img src=".\demonstration\5_0版本 (7).jpeg" alt="5_0版本 (7)" style="zoom:25%;" /><img src=".\demonstration\5_0版本 (10).jpeg" alt="5_0版本 (10)" style="zoom:25%;" />
+<img src=".\demonstration\5_0版本 (7).jpeg" alt="5_0版本 (7)" style="width: 20%; height: auto;"><img src=".\demonstration\5_0版本 (10).jpeg" alt="5_0版本 (10)" style="width: 20%; height: auto;" />
 
 可**切换画像选择**，符合自己的风格喜好
 
@@ -21,7 +21,7 @@
 
 ## 配队
 
-<img src=".\demonstration\5_0版本 (24).jpeg" alt="5_0版本 (24)" style="zoom:25%;" /><img src=".\demonstration\5_0版本 (25).jpeg" alt="5_0版本 (25)" style="zoom:25%;" />
+<img src=".\demonstration\5_0版本 (24).jpeg" alt="5_0版本 (24)" style="width: 20%; height: auto;" /><img src=".\demonstration\5_0版本 (25).jpeg" alt="5_0版本 (25)" style="width: 20%; height: auto;" />
 
 自由搭配属于自己账号的队伍数据，配合导入模拟对局功能，队伍强度更加直观
 
@@ -29,7 +29,7 @@
 
 ## 宝物
 
-<img src=".\demonstration\5_0版本 (18).jpeg" alt="5_0版本 (18)" style="zoom:25%;" /><img src=".\demonstration\5_0版本 (15).jpeg" alt="5_0版本 (15)" style="zoom:25%;" />
+<img src=".\demonstration\5_0版本 (18).jpeg" alt="5_0版本 (18)" style="width: 20%; height: auto;" /><img src=".\demonstration\5_0版本 (15).jpeg" alt="5_0版本 (15)" style="width: 20%; height: auto;" />
 
 新增宝物配置系统，**自由配置宝物属性**，方便在我的队伍中配置宝物后导入模拟对局系统
 
@@ -41,13 +41,13 @@
 
 
 
-<img src=".\demonstration\5_4版本 (5).jpeg" alt="5_4版本 (5)" style="zoom:25%;" /><img src=".\demonstration\demon.jpeg" alt="demon" style="zoom:25%;" />
+<img src=".\demonstration\5_4版本 (5).jpeg" alt="5_4版本 (5)" style="width: 20%; height: auto;" /><img src=".\demonstration\demon.jpeg" alt="demon" style="width: 20%; height: auto;" />
 
 可保存队伍配置，保存其加点，兵种特性选择，和宝物选择，后续模拟对局直接导入更加高效
 
 
 
-<img src=".\demonstration\5_4版本 (4).jpeg" alt="5_4版本 (4)" style="zoom:25%;" /><img src=".\demonstration\5_4版本 (6).jpeg" alt="5_4版本 (6)" style="zoom:25%;" />
+<img src=".\demonstration\5_4版本 (4).jpeg" alt="5_4版本 (4)" style="width: 20%; height: auto;" /><img src=".\demonstration\5_4版本 (6).jpeg" alt="5_4版本 (6)" style="width: 20%; height: auto;" />
 
 分组保存，灵活配置阵容进行对抗演习
 
@@ -55,19 +55,19 @@
 
 
 
-<img src=".\demonstration\5_0版本 (31).jpeg" alt="5_0版本 (31)" style="zoom: 25%;" /><img src=".\demonstration\5_0版本 (33).jpeg" alt="5_0版本 (33)" style="zoom:25%;" />
+<img src=".\demonstration\5_0版本 (31).jpeg" alt="5_0版本 (31)" style="width: 200px; height: auto;" /><img src=".\demonstration\5_0版本 (33).jpeg" alt="5_0版本 (33)" style="width: 200px; height: auto;" />
 
 战报主页，底部**可选显示兵种特性战报和宝物特性战报**，优化显示体验
 
 
 
-<img src=".\demonstration\5_0版本 (35).jpeg" alt="5_0版本 (35)" style="zoom:25%;" /><img src=".\demonstration\5_0版本 (36).jpeg" alt="5_0版本 (36)" style="zoom:25%;" />
+<img src=".\demonstration\5_0版本 (35).jpeg" alt="5_0版本 (35)" style="width:200px; height: auto;" /><img src=".\demonstration\5_0版本 (36).jpeg" alt="5_0版本 (36)" style="width:200px; height: auto;" />
 
 左图为不显示兵种和宝物效果战报，右图为显示兵种和宝物效果战报
 
 
 
-<img src=".\demonstration\5_0版本 (38).jpeg" alt="5_0版本 (38)" style="zoom:25%;" /><img src=".\demonstration\iPhone 14 Pro Max.jpeg" alt="iPhone 14 Pro Max" style="zoom:25%;" />
+<img src=".\demonstration\5_0版本 (38).jpeg" alt="5_0版本 (38)" style="width: 200px; height: auto;" /><img src=".\demonstration\iPhone 14 Pro Max.jpeg" alt="iPhone 14 Pro Max" style="width: 200px; height: auto;" />
 
 数字部分特殊处理，使得**治疗效果和伤害效果一目了然**，高额伤害显示更为突出
 
