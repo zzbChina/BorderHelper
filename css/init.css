@@ -32,6 +32,9 @@ button{
     /* transform: scale(1.1); */
     opacity: .6;
 }
+img{
+    display: inline-block;
+}
  
 
 .command_type_linear{
