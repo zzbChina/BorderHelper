@@ -4,8 +4,11 @@
     padding: 0;
     font-size: 3vw;
     text-align: center;
-    
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
 }
+    
+
 *::-webkit-scrollbar{
     display: none;
 }
@@ -34,6 +37,8 @@ button{
 }
 img{
     display: inline-block;
+    pointer-events: none; /* 禁用图片的触摸事件（不影响布局） */
+    -webkit-touch-callout: none; /* 禁用iOS长按菜单 */
 }
  
 
