@@ -13,7 +13,7 @@
 
 ## 武将
 
-<img src=".\demonstration\5_0版本 (22).jpeg" alt="5_0版本 (7)" style="width: 200px; height: auto;">  <img src=".\demonstration\5_0版本 (7).jpeg" alt="5_0版本 (7)" style="width: 200px; height: auto;">  <img src=".\demonstration\5_0版本 (10).jpeg" alt="5_0版本 (10)" style="width: 200px; height: auto;" />
+<img src=".\demonstration\warrior1.jpeg" alt="5_0版本 (7)" style="width: 200px; height: auto;">  <img src=".\demonstration\warrior2.jpeg" alt="5_0版本 (7)" style="width: 200px; height: auto;">  <img src=".\demonstration\warrior3.jpeg" alt="5_0版本 (10)" style="width: 200px; height: auto;" />
 
 可**切换画像选择**，符合自己的风格喜好
 
@@ -67,11 +67,11 @@
 
 ## 更新
 
-| 版本 | 时间      | 更新内容                                                     |
-| ---- | --------- | ------------------------------------------------------------ |
-| 5.10 | 2026/2/15 | 1.同步武将平衡性调整；                                       |
-|      |           | 2.新增对局战法新增**北伐副将、赛季战法**等内容               |
-|      |           | 3.修复【佐命晋武】在裴秀阵亡时还可以继续生效的问题；修复称号【司马霸府】对【晋-司马懿-步】不生效问题；修复【其徐如林】的触发机制使其不能和【举贤决机】【缓师徐持】无限联动bug；修复【雅虑适时】和【舍身卫主】互相承担伤害导致栈溢出问题； |
+| 版本 | 时间     | 更新内容                                        |
+| ---- | -------- | ----------------------------------------------- |
+| 5.11 | 2026/7/7 | 1.同步6月武将平衡性调整；                       |
+|      |          | 2.新增对局战法新增**北伐副将、赛季战法**等内容; |
+|      |          | 3.修复【审视定计】判定时机问题；                |
 
 
 
