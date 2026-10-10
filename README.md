@@ -6,7 +6,7 @@
 
 ## 🛠️技术栈
 
-**前端**：Vue 3 + Composition API + SCSS
+**前端**：Vue 3 + SCSS
 **构建**：Vite
 **部署**：本地服务器（serve）
 **数据**：JSON 配置化驱动（武将 / 战法 / 宝物 / 配队数据 / 阵容 / 账号）
